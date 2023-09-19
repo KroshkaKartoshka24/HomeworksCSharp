@@ -1,0 +1,14 @@
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/bin/Debug/net7.0/Work1
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/bin/Debug/net7.0/Work1.deps.json
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/bin/Debug/net7.0/Work1.runtimeconfig.json
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/bin/Debug/net7.0/Work1.dll
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/bin/Debug/net7.0/Work1.pdb
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/obj/Debug/net7.0/Work1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/obj/Debug/net7.0/Work1.AssemblyInfoInputs.cache
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/obj/Debug/net7.0/Work1.AssemblyInfo.cs
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/obj/Debug/net7.0/Work1.csproj.CoreCompileInputs.cache
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/obj/Debug/net7.0/Work1.dll
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/obj/Debug/net7.0/refint/Work1.dll
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/obj/Debug/net7.0/Work1.pdb
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/obj/Debug/net7.0/Work1.genruntimeconfig.cache
+/Users/kristinanemova/Desktop/C#/Homeworks/Work1/obj/Debug/net7.0/ref/Work1.dll
