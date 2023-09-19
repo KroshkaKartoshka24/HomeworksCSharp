@@ -41,19 +41,38 @@
 //     Console.WriteLine("Введен неверный тип данных: " + ex.Message);
 // }
 
+// try 
+// {
+//     Console.WriteLine("Введите число: ");
+//     int num = Convert.ToInt32(Console.ReadLine());
+//     if (num%2 == 0)
+//     {
+//         Console.WriteLine($"Число {num} является четным");
+//     }
+//     else 
+//     {
+//         Console.WriteLine($"Число {num} является нечетным");
+//     }
+  
+// }
+// catch (Exception ex)
+// {
+//     Console.WriteLine("Введен неверный тип данных: " + ex.Message);
+// }
+
 try 
 {
     Console.WriteLine("Введите число: ");
     int num = Convert.ToInt32(Console.ReadLine());
-    if (num%2 == 0)
+    string result = "";
+    for (int i = 1; i < num; i++)
     {
-        Console.WriteLine($"Число {num} является четным");
+        if (i%2 == 0)
+        {
+            result = result + i + " ";
+        }
     }
-    else 
-    {
-        Console.WriteLine($"Число {num} является нечетным");
-    }
-  
+    System.Console.WriteLine("Все четные числа: " + result);
 }
 catch (Exception ex)
 {
